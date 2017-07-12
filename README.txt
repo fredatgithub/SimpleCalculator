@@ -2,4 +2,4 @@
 
 This project was created for demostration purposes, the develop time was about 1 hour up to the initial commit.
 
-I release this code as freeware under the license CC-BY 3.0. You can read the licnese under the following url: http://creativecommons.org/licenses/by/3.0/
+I release this code as freeware under the license CC-BY 3.0. You can read the license under the following url: http://creativecommons.org/licenses/by/3.0/
